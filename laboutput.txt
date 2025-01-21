@@ -41,7 +41,7 @@ OK
 OPS445 Lab Report - System Information for running ./CheckLab1.py
 =================================================================
     User login name: brroque
-    Git Email: eliasdeeroque@gmail.com
+    Git Email: brroque@myseneca.ca
     Linux system name: brroque-VirtualBox
     Python executable: /usr/bin/python3
     Python version:  3.12.3 (main, Nov  6 2024, 18:32:19) [GCC 13.2.0]
